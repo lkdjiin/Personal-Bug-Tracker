@@ -1,0 +1,46 @@
+= Personal Bug Tracker
+
+English translation soon...
+
+Personal Bug Tracker est un logiciel de suivi de bug open source  pour les développements sur 
+lesquels vous travaillez seul, pour vos projets en freelance ou vos projets personnels.
+
+Vous n'avez plus besoin de sortir l'artillerie lourde (Bugzilla, Trac, etc.) ou pire encore, 
+de gérer la liste des bugs manuellement, pour vos projets ne nécessitant pas de travail collaboratif. 
+
+
+== Features
+
+*  Interface légère et simple
+* Multi-plateforme, fonctionne sur tout système d'exploitation doté de Java 1.6
+* Base de données embarquée : ne nécessite ni configuration, ni installation
+* Multi-projets, une seule interface pour tous vos projets
+* Triage des bugs par priorité et par catégorie
+* Listing des bugs au format pdf (ou texte) en vue d'une impression
+* Archivage des projets
+* Interface en français
+
+
+== Documentation
+
+http://personalbugtracker.free.fr 
+
+
+== Dependencies
+
+Java >= 1.6
+
+
+== Install
+
+http://personalbugtracker.free.fr 
+
+
+== License
+GPLv3, see COPYING.
+
+
+== Questions and/or Comments
+
+Feel free to email {Xavier Nayrac}[mailto:xavier.nayrac@gmail.com]
+with any questions.
